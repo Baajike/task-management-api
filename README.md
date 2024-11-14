@@ -9,7 +9,7 @@ A RESTful API built using Node.js and MongoDB, designed to handle basic task man
 ## Installation
 ### Clone the repository:
 
-bash
+### bash
 ```
 git clone [repository link]
 cd task-management-api
